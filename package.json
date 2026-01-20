@@ -1,5 +1,5 @@
 {
-  "name": "chapter03",
+  "name": "clean_blog",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Ernest Ekelem",
   "license": "ISC",
   "engines":{
-  "node": "10.15.3"},
+  "node": "18.x"},
   "description": "",
   "dependencies": {
     "bcrypt": "^6.0.0",
